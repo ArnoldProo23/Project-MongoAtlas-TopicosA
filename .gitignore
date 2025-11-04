@@ -1,0 +1,6 @@
+#
+.myenv/
+myenv/
+
+#Scret
+.env
