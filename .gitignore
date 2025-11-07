@@ -2,5 +2,7 @@
 .myenv/
 myenv/
 
+_pycache__/
+__pycache__/
 #Scret
 .env
